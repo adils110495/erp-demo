@@ -118,11 +118,10 @@ The system provides centralized control over multi-site projects, vendor payment
 📸 Screenshots (See Below)
 
 🖥️ 1️⃣ Dashboard Overview
-
+     <br>
      Real-time business insights including Employees, Vendors, Accounts, Workers, Dues, Agreements, and Bills.
      Includes invoice distribution chart and monthly profit overview.
      Displays tax summary including Bill Tax, Purchase Tax, Vendor Tax, Credit Notes, and Deductions.
-     
      ![Dashboard](screenshots/dashboard.PNG)
      ![Invoice & Profit Overview](screenshots/dashboard2.PNG)
      ![GST Summary](screenshots/dashboard3.PNG)
