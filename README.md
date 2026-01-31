@@ -28,7 +28,6 @@
               -    MySQL
 
      🧰 Tools & Deployment
-     
               -    Docker (Local Development Environment)
               -    Git & GitHub
               -    Vscode
