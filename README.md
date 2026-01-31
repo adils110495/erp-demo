@@ -15,10 +15,12 @@
      -    Monthly Salary Summary
 
  🛠️ Tech Stack
+ 
      🟢 Backend
               -    PHP (Yii2 Framework)
               -    RESTful APIs
               -    MVC Architecture
+              
     🎨 Frontend
               -    Bootstrap
               -    jQuery
@@ -26,10 +28,12 @@
               -    AJAX Integration
      🗄️ Database
               -    MySQL
-
+              
      🧰 Tools & Deployment
-               -    Docker (Local Development Environment)
+     
+              -    Docker (Local Development Environment)
               -    Git & GitHub
               -    Vscode
               -    Production Server: HostGator (cPanel Based Hosting)
+              
 📸 Screenshots (See Below)
