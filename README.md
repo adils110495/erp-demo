@@ -1,35 +1,39 @@
 📝 ERP Construction  
+
 🔗 Live Demo: [login](https://dev.dka.pw/site/login)
 
 📌 Core Features
 
-🔐 Authentication & Authorization
-     -    Secure Login System
-     -    Role-Based Access Control
-     -    Permission Management
-     -    Add Roles & Add Permissions
+     🔐 Authentication & Authorization
 
- 📊 Dashboard Overview
-     -    Total Employees Count
-     -    Leave Statistics (Pending / Approved / Rejected)
-     -    Monthly Salary Summary
+          -    Secure Login System
+          -    Role-Based Access Control
+          -    Permission Management
+          -    Add Roles & Add Permissions
 
- 🛠️ Tech Stack
+      📊 Dashboard Overview
  
-     🟢 Backend
-              -    PHP (Yii2 Framework)
-              -    RESTful APIs
-              -    MVC Architecture
+          -    Total Employees Count
+          -    Leave Statistics (Pending / Approved / Rejected)
+          -    Monthly Salary Summary
+
+      🛠️ Tech Stack
+ 
+           🟢 Backend
+                -    PHP (Yii2 Framework)
+                -    RESTful APIs
+                -    MVC Architecture
               
-    🎨 Frontend
-              -    Bootstrap
-              -    jQuery
-              -    JavaScript
-              -    AJAX Integration
-     🗄️ Database
-              -    MySQL
+           🎨 Frontend
+               -    Bootstrap
+               -    jQuery
+               -    JavaScript
+               -    AJAX Integration
+               
+          🗄️ Database
+               -    MySQL
               
-     🧰 Tools & Deployment
+          🧰 Tools & Deployment
      
               -    Docker (Local Development Environment)
               -    Git & GitHub
