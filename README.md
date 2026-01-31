@@ -28,9 +28,8 @@
               -    MySQL
 
      🧰 Tools & Deployment
-              -    Docker (Local Development Environment)
+               -    Docker (Local Development Environment)
               -    Git & GitHub
               -    Vscode
               -    Production Server: HostGator (cPanel Based Hosting)
-              
 📸 Screenshots (See Below)
