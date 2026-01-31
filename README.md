@@ -71,7 +71,7 @@ The system provides centralized control over multi-site projects, vendor payment
           -  Invoice Handling
           -  Tax Calculation Integration
 
-     🏬 Store & Billing
+     📑 Reports Module
      
           Comprehensive reporting features including:
                -  Salary Reports
