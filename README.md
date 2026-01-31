@@ -103,6 +103,12 @@ The system provides centralized control over multi-site projects, vendor payment
               -  Git & GitHub
               -  Vscode
               -  Production Server: HostGator (cPanel Based Hosting)
+
+     🎯 System Highlights
+          ✔ Modular ERP Architecture
+          ✔ Role-Based Secure Access
+
+
               
 🎯 System Highlights
 
