@@ -3,7 +3,7 @@
 
 📌 Core Features
 
- 🔐 Authentication & Authorization
+🔐 Authentication & Authorization
      -    Secure Login System
      -    Role-Based Access Control
      -    Permission Management
