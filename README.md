@@ -104,26 +104,18 @@ The system provides centralized control over multi-site projects, vendor payment
               -  Vscode
               -  Production Server: HostGator (cPanel Based Hosting)
 
-     🎯 System Highlights
+      🎯 System Highlights
+      
           ✔ Modular ERP Architecture
           ✔ Role-Based Secure Access
-
-
+          ✔ Multi-Site Construction Support
+          ✔ GST & Tax Tracking
+          ✔ Agreement & Payment Transparency
+          ✔ Workforce & Salary Management
+          ✔ Financial Year Session Control
+          ✔ Clean Administrative Dashboard UI
               
-🎯 System Highlights
+      📸 Screenshots (See Below)
 
-     ✔ Modular ERP Architecture
-     ✔ Role-Based Secure Access
-     ✔ Multi-Site Construction Support
-     ✔ GST & Tax Tracking
-     ✔ Agreement & Payment Transparency
-     ✔ Workforce & Salary Management
-     ✔ Financial Year Session Control
-     ✔ Clean Administrative Dashboard UI
-              
-📸 Screenshots (See Below)
-
-     🖥️ 1️⃣ Dashboard Overview
-     ![Dashboard Overview](screenshots/dashboard.PNG)
-
-
+      🖥️ 1️⃣ Dashboard Overview
+      ![Dashboard Overview](screenshots/dashboard.PNG)
