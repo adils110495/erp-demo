@@ -115,7 +115,7 @@ The system provides centralized control over multi-site projects, vendor payment
           ✔ Financial Year Session Control
           ✔ Clean Administrative Dashboard UI
               
-      📸 Screenshots (See Below)
+📸 Screenshots (See Below)
 
-      ### 📊 Dashboard
-     ![Dashboard](screenshots/dashboard.PNG)
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.PNG)
