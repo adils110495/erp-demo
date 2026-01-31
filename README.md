@@ -11,6 +11,7 @@ The system provides centralized control over multi-site projects, vendor payment
 📌 Core Features
 
      🔐 Authentication & Authorization
+     
           -  Secure Login System
           -  Role-Based Access Control
           -  Permission Management
@@ -19,12 +20,14 @@ The system provides centralized control over multi-site projects, vendor payment
      Ensures secure access with structured permission handling across different user levels.
 
       📊 Dashboard Overview
+      
            The dashboard provides a real-time business overview including:
                -  Total Resources
                -  Total Agreements
                -  Total Bills
 
           📈 Visual Insights
+          
                -  Invoice Distribution (Vendor / Purchase / General / Agreement)
                -  Monthly Profit Overview (Bill Tracking)
                -  GST Summary (Current Month)
@@ -36,6 +39,7 @@ The system provides centralized control over multi-site projects, vendor payment
           The dashboard enables quick decision-making with summarized financial indicators.
           
      💳 Payment Management Module
+     
            -  Payment Creation
            -  Invoice Deduction Payments
            -  Account-based Transactions
@@ -45,6 +49,7 @@ The system provides centralized control over multi-site projects, vendor payment
      Includes structured payment descriptions with company, site, head, account name, and amount tracking.
 
      🤝 Agreement Management
+     
            -  Agreement Creation
            -  Agreement Cost Tracking
            -  Bill Tracking Against Agreements
@@ -53,6 +58,7 @@ The system provides centralized control over multi-site projects, vendor payment
      Ensures controlled contract and billing management per site.
 
      👷 Resource Management
+     
           Under the Resource Module, the system manages:
                 -  Employee Management
                      -  Employee Listing
