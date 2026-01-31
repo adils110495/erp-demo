@@ -116,3 +116,8 @@ The system provides centralized control over multi-site projects, vendor payment
      ✔ Clean Administrative Dashboard UI
               
 📸 Screenshots (See Below)
+
+     🖥️ 1️⃣ Dashboard Overview
+     ![Dashboard Overview](screenshots/dashboard.png)
+
+
