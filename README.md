@@ -118,4 +118,4 @@ The system provides centralized control over multi-site projects, vendor payment
       📸 Screenshots (See Below)
 
       🖥️ 1️⃣ Dashboard Overview
-      ![Dashboard Overview](screenshots/dashboard.PNG)
+      ![Dashboard](screenshots/dashboard.PNG)
