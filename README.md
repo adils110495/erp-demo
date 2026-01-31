@@ -1,4 +1,4 @@
-🏗️ ERP Construction Management System
+🏗️ ERP Management System
 
 🔗 Live Demo: [login](https://dev.dka.pw/site/login)
 
