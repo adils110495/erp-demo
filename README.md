@@ -118,6 +118,7 @@ The system provides centralized control over multi-site projects, vendor payment
 📸 Screenshots (See Below)
 
 🖥️ 1️⃣ Dashboard Overview
+
      Real-time business insights including Employees, Vendors, Accounts, Workers, Dues, Agreements, and Bills.
      Includes invoice distribution chart and monthly profit overview.
      Displays tax summary including Bill Tax, Purchase Tax, Vendor Tax, Credit Notes, and Deductions.
@@ -126,19 +127,23 @@ The system provides centralized control over multi-site projects, vendor payment
      ![GST Summary](screenshots/dashboard3.PNG)
 
 💳 4️⃣ Payment Management
+
      Payment creation, filtering, invoice deductions, and transaction tracking.
      ![Payment Module](screenshots/payment.PNG)
 
 👨‍💼 5️⃣ Salary & Employee Reports
+
      Employee salary details including working days, leave, allowances, and salary summary.
      ![Employee Report](screenshots/reports.PNG)
 
 👷 6️⃣ Resource Management
+
      Employee, Vendor, Worker, Worker-Vendor Mapping, Site Dues, Company Dues management.
      ![Resource Module](screenshots/resources.PNG)
 
 ⚙️ 7️⃣ System Settings
+
      System management, state configuration (TIN & codes), and administrative setup.
-     ![Settings Module](screenshots/setting.png)
+     ![Settings Module](screenshots/setting.PNG)
 
 
