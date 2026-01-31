@@ -126,19 +126,19 @@ The system provides centralized control over multi-site projects, vendor payment
      ![Invoice & Profit Overview](screenshots/dashboard2.PNG)
      ![GST Summary](screenshots/dashboard3.PNG)
 
-💳 4️⃣ Payment Management<br>
+💳 2️⃣ Payment Management<br>
      Payment creation, filtering, invoice deductions, and transaction tracking.
      ![Payment Module](screenshots/payment.PNG)
 
-👨‍💼 5️⃣ Salary & Employee Reports<br>
+👨‍💼 3️⃣ Salary & Employee Reports<br>
      Employee salary details including working days, leave, allowances, and salary summary.
      ![Employee Report](screenshots/reports.PNG)
 
-👷 6️⃣ Resource Management<br>
+👷 4️⃣ Resource Management<br>
      Employee, Vendor, Worker, Worker-Vendor Mapping, Site Dues, Company Dues management.
      ![Resource Module](screenshots/resources.PNG)
 
-⚙️ 7️⃣ System Settings<br>
+⚙️ 5️⃣ System Settings<br>
      System management, state configuration (TIN & codes), and administrative setup.
      ![Settings Module](screenshots/setting.PNG)
 
